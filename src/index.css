@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  src: local("ProximaNova"),
+    url(./assets//font/ProximaNova-Light.woff) format("woff");
+}
+@font-face {
+  font-family: "ProximaNova-w";
+  src: local("ProximaNova-w"),
+    url(./assets//font/ProximaNova.woff) format("woff");
+}
+@font-face {
+  font-family: "Monument Extended";
+  src: url("//db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.eot");
+  src: url("//db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/55d433372d270829c51e2577a78ef12d.svg#Monument Extended")
+      format("svg");
+}
+
+.tab-content {
+  display: flex;
+  flex-direction: column;
+}
+
+button.disabled {
+  pointer-events: none;
+}
+.dash_ox_team_slider {
+  width: 80%;
+  margin: auto;
+}
+.slick-slide {
+  padding: 0 10px;
+}
+.slick-prev {
+  width: 50px !important;
+  height: 50px !important;
+  background-color: transparent !important;
+  background-image: url('./assets/img/left-arrow.png') !important;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}
+.slick-next {
+  width: 50px !important;
+  height: 50px !important;
+  background-color: transparent !important;
+  background-image: url('./assets/img/right-arrow.png') !important;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}
+.slick-arrow:before {
+  font-size: 0px !important;
+  background-color: transparent !important;
+}
+.slick-slider {
+  padding: 0 30px;
+}
+.description {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 150%;
+  color: #ffffff;
+}
+.crypto_partner_img {
+  width: 100%;
+  height: 100%;
+}

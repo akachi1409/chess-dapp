@@ -1,0 +1,2054 @@
+.main-content-bg{
+
+}
+.header-image{
+    position: relative;
+    width: 100%;
+    background-image: url('../../img/first-bg.jpg');
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom:75px;
+    background-position-x: 50%;
+  }
+  .text-error{
+    color: red;
+    font-size: 20px;
+    text-align:center;
+    margin-top: 10px; 
+    font-weight: 600;      
+  }
+  .nav-bar{
+    display: block;
+    width: 100%;
+    padding:20px 0;
+    margin: auto;
+    background-color:rgba(0,0,0,0.25);
+  }
+  .header-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    background: linear-gradient(to right,#FEE564, #FEE564 ,#ED8E3B, #ED8E3B);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    z-index:1;
+  }
+  .header-search-part{
+    display:block;
+  }
+  .link-part{
+    display:flex;
+    align-items: center;
+  }
+  .header-link{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    color: white;
+    cursor:pointer;
+    margin-left:40px;
+  }
+  .walletBtn{
+    background-color:transparent;
+    border:none;
+    letter-spacing:-2px;
+    color:white;
+    font-size:17px;
+    font-weight:bold;
+  }
+  .header-button{
+    width:35px;
+    height:35px;
+    cursor:pointer;
+    margin-left:40px;
+  }
+  .top-content{
+    margin-top:200px;
+    padding:0 150px;
+  }
+  .feature-part{
+    margin-top:30px;
+    text-align:center;
+  }
+  .title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 120.5%;
+    color:white;
+  }
+  .drop-part1{
+    display:block;
+  }
+  .drop-part2{
+    display:none;
+  }
+  .lorem-part{
+    padding:0 200px;
+    margin-top:30px;
+  }
+  .lorem-detail-part{
+    text-align:center;
+    padding:0 30px;
+  }
+  .first-content-description{
+    padding:0 70px;
+  }
+  .description{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 150%;
+    color: #FFFFFF;
+  }
+  .slide-description{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 150%;
+    color: #FFFFFF;
+    padding: 0 40px;
+    color:black;
+    font-size:19px;
+  }
+  .slide-font1{
+    margin-top: -442px;
+  }
+  .slide-font2{
+    margin-top: -442px;
+  }
+  .slide-font3{
+    margin-top: -442px;
+  }
+  .slide-font4{
+    margin-top: -442px;
+    position:absolute;
+    width: 348px;
+  }
+  .slick-arrow{
+    margin-top:-50px;
+  }
+  .slick-list{
+    height:500px;
+  }
+  .roadmap-font1{
+    margin-top: -310px;
+    text-align:center;
+  }
+  .roadmap-font2{
+    margin-top: -310px;
+    text-align:center;
+  }
+  .roadmap-font3{
+    margin-top: -310px;
+    text-align:center;
+  }
+  .roadmap-description{
+    padding:0 90px!important;
+    font-size:19px!important;
+  }
+  .roadmap-description4{
+    padding:0 90px!important;
+    line-height:25px!important;
+    font-size:19px!important;
+  }
+  .roadmap-description5{
+    padding:0 90px!important;
+    font-size:17px!important;
+    line-height:18px!important;
+  }
+  .roadmap-description7{
+    padding:0 90px!important;
+    font-size:18px!important;
+    line-height:21px!important;
+  }
+  .roadmap-title{
+    font-size:40px;
+    margin-bottom:10px;
+  }
+  .button-explore{
+    width: 150px;
+    height: 60px;
+    left: 235px;
+    top: 534px;
+    background: linear-gradient(99.09deg, #FEE564 0%, #ED8E3B 100%);
+    border-radius: 15px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color:white;
+    border:none;
+  }
+  .button-explore:hover{
+    background: transparent;
+    color:#ED8E3B
+  }
+  .button-join{
+    width: 150px;
+    height: 60px;
+    left: 465px;
+    top: 534px;
+    border-radius: 15px;
+    border:2px solid #FEE564;
+    background:transparent;
+    margin-left:40px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #ED8E3B;
+  }
+  .button-join:hover{
+    background: #ED8E3B;
+    color:white;
+  }
+  .arrow-button{
+    width:35px;
+    height:35px;
+  }
+  .yellow-letter{
+    color:#ED8E3B;
+  }
+  .first-image{
+    width:450px;
+    height:450px;
+    margin:auto;
+    margin-top:-30px;
+  }
+  .learn-part{
+    padding-left:70px;
+  }
+  .first-btn-content{
+  
+  }
+  .icon-image{
+    width:70px;
+    height:60px;
+  }
+  .prize-title{
+    font-size:39px;
+  }
+  .prize-description{
+    padding:0 54px;
+  }
+  .NFTPart{
+    width:100%;
+    height:1300px;
+    background: linear-gradient(#562c03, #230b01,#230b01,#230b01,#230b01,#230b01);
+    box-shadow: 0px 40px;
+    padding:30px 100px;
+  }
+  .NFT-image{
+    width:80%;
+    height:auto;
+    margin:auto;
+    border-radius:15px;
+  }
+  .NFT-display{
+    display:block;
+  }
+  .flag-image{
+    width:80%;
+    height:100%;
+    margin:auto;
+  }
+  .end-part{
+    position: relative;
+    width: 100%;
+    background-image: url('../../img/end-background.png');
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:1186px;
+    background-position-x: 50%;
+  }
+  .shadow-part{
+    background: linear-gradient(#230b01,#230b01, rgba(0,0,0, 0),rgba(0,0,0, 0));
+    height:100px;
+  }
+  
+  .mobile-menu{
+    width: 35px;
+    height: 30px;
+    cursor: pointer;
+    display:none;
+    float:right;
+    margin-right:10px;
+    margin-top:10px;
+  }
+  .mobile-nav-part{
+    position:absolute;
+    right:0;
+    width:150px;
+    float:right;
+    background-color:rgba(0,0,0,0.9);
+    padding-left:20px;
+    padding-top:15px;
+    z-index:2;
+  }
+  .disconnect-part{
+    position:absolute;
+    width:140px;
+    float:left;
+    background-color:rgba(0,0,0,0.9);
+    padding-left:20px;
+    padding-top:5px;
+    z-index:2;
+  }
+  .mobile-link{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 150%;
+    color: #FFFFFF;
+    cursor:pointer;
+  }
+  .modal-part{
+    z-index:200;
+    position:fixed;
+    width:100%;
+    height:100vh;
+    background:rgba(0,0,0,0.9);
+  }
+  .modal-con{
+    width:400px;
+    height:380px;
+    background: linear-gradient(#230b01,#230b01,#230b01,#230b01,#230b01);
+    margin:auto;
+    margin-top:10vh;
+    text-align:center;
+    padding-top:7vh;
+  }
+  .input-field{
+    width:90%;
+    height:170px;
+    padding:15px 10px;
+    font-size:15px;
+    font-family: Poppins;
+  }
+  .modal-btn{
+    width:150px;
+    height:60px;
+  }
+  @media only screen and (max-width:1889px){
+    .slide-description{
+      font-size:17px;
+    }
+    .slide-font1{
+      margin-top: -412px;
+    }
+    .slide-font2{
+      margin-top: -412px;
+    }
+    .slide-font3{
+      margin-top: -412px;
+    }
+    .slide-font4{
+      margin-top: -412px;
+      position:absolute;
+      width: 320px;
+    }
+    .roadmap-font1{
+      margin-top: -262px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -262px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -262px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 80px!important;
+      font-size:17px!important;
+    }
+    .roadmap-description4{
+      padding:0 80px!important;
+      line-height:25px!important;
+      font-size:17px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 80px!important;
+      font-size:15px!important;
+      line-height:18px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 80px!important;
+      font-size:16px!important;
+      line-height:21px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:35px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 1815px) {
+    .learn-part{
+      margin-top:-20px;
+    }
+    .NFTPart{
+      height:1300px;
+    }
+    .roadmap-font1{
+      margin-top: -262px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -262px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -262px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 80px!important;
+      font-size:15px!important;
+    }
+    .roadmap-description4{
+      padding:0 80px!important;
+      line-height:25px!important;
+      font-size:15px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 80px!important;
+      font-size:13px!important;
+      line-height:18px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 80px!important;
+      font-size:14px!important;
+      line-height:21px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:30px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 1753px) {
+    .link-part{
+      padding-left:50px!important;
+    }
+    .header-link{
+      margin-left:20px;
+      font-size:20px;
+    }
+    .header-button{
+      margin-left:20px;
+      width:30px;
+      height:30px;
+    }
+    .lorem-part{
+      padding:0 150px;
+    }
+    .NFTPart{
+      height:1250px;
+    }
+    .slide-description{
+      font-size:15px;
+    }
+    .slide-font1{
+      margin-top: -390px;
+    }
+    .slide-font2{
+      margin-top: -390px;
+    }
+    .slide-font3{
+      margin-top: -390px;
+    }
+    .slide-font4{
+      margin-top: -390px;
+      position:absolute;
+      width: 300px;
+    }
+    .roadmap-font1{
+      margin-top: -242px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -242px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -242px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 80px!important;
+      font-size:15px!important;
+    }
+    .roadmap-description4{
+      padding:0 80px!important;
+      line-height:21px!important;
+      font-size:13px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 80px!important;
+      font-size:11px!important;
+      line-height:15px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 80px!important;
+      font-size:12px!important;
+      line-height:17px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:30px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 1669px) {
+    .slide-description{
+      font-size:15px;
+    }
+    .slide-font1{
+      margin-top: -370px;
+    }
+    .slide-font2{
+      margin-top: -370px;
+    }
+    .slide-font3{
+      margin-top: -370px;
+    }
+    .slide-font4{
+      margin-top: -370px;
+      position:absolute;
+      width: 280px;
+    }
+    .roadmap-font1{
+      margin-top: -220px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -220px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -212px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 70px!important;
+      font-size:13px!important;
+    }
+    .roadmap-description4{
+      padding:0 70px!important;
+      line-height:21px!important;
+      font-size:11px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 70px!important;
+      font-size:9px!important;
+      line-height:15px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 70px!important;
+      font-size:10px!important;
+      line-height:17px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:30px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 1600px) {
+    .learn-part{
+      margin-top:0px;
+    }
+    .top-content{
+      margin-top:200px;
+      padding:0 100px;
+    }
+    .lorem-part{
+      padding:0 100px;
+    }
+    .lorem-detail-part{
+      padding:0 10px;
+    }
+    .NFTPart{
+      height:1250px;
+    }
+    .slide-description{
+      font-size:13px;
+    }
+    .slide-font1{
+      margin-top: -340px;
+    }
+    .slide-font2{
+      margin-top: -340px;
+    }
+    .slide-font3{
+      margin-top: -340px;
+    }
+    .slide-font4{
+      margin-top: -340px;
+      position:absolute;
+      width: 260px;
+    }
+  }
+  @media only screen and (max-width: 1550px) {
+    .roadmap-font1{
+      margin-top: -200px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -200px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -200px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 70px!important;
+      font-size:13px!important;
+    }
+    .roadmap-description4{
+      padding:0 60px!important;
+      line-height:21px!important;
+      font-size:11px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 60px!important;
+      font-size:9px!important;
+      line-height:15px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 60px!important;
+      font-size:10px!important;
+      line-height:17px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:30px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 1500px) {
+    .NFTPart{
+      height:1370px;
+    }
+    .slide-description{
+      font-size:18px;
+    }
+    .slide-font1{
+      margin-top: -430px;
+    }
+    .slide-font2{
+      margin-top: -430px;
+    }
+    .slide-font3{
+      margin-top: -430px;
+    }
+    .slide-font4{
+      margin-top: -430px;
+      position:absolute;
+      width: 340px;
+    }
+    .roadmap-font1{
+      margin-top: -260px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -260px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -260px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 80px!important;
+      font-size:17px!important;
+    }
+    .roadmap-description4{
+      padding:0 80px!important;
+      line-height:24px!important;
+      font-size:15px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 80px!important;
+      font-size:14px!important;
+      line-height:18px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 80px!important;
+      font-size:14px!important;
+      line-height:20px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:35px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 1370px) {
+    .link-part{
+      padding-left:35px!important;
+    }
+    .header-title{
+      font-size:24px;
+    }
+    .header-link{
+      margin-left:14px;
+      font-size:17px;
+    }
+    .header-button{
+      margin-left:14px;
+      width:25px;
+      height:25px;
+      margin-top:5px;
+    }
+    .top-content{
+      margin-top:150px;
+      padding:0 50px;
+    }
+    .first-image{
+      width:350px;
+      height:350px;
+      margin-top:30px;
+    }
+    .lorem-part{
+      padding:0 50px;
+    }
+    .lorem-detail-part{
+      padding:0 10px;
+    }
+    .NFTPart{
+      height:1360px;
+      padding:30px 70px;
+    }
+    .NFT-image{
+      width:80%;
+      height:auto;
+    }
+    .flag-image{
+      width:250px;
+      height:280px;
+    }
+    .slide-description{
+      font-size:16px;
+    }
+    .slide-font1{
+      margin-top: -400px;
+    }
+    .slide-font2{
+      margin-top: -400px;
+    }
+    .slide-font3{
+      margin-top: -400px;
+    }
+    .slide-font4{
+      margin-top: -400px;
+      position:absolute;
+      width: 310px;
+    }
+    .roadmap-font1{
+      margin-top: -290px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -290px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -290px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 90px!important;
+      font-size:19px!important;
+    }
+    .roadmap-description4{
+      padding:0 90px!important;
+      line-height:26px!important;
+      font-size:17px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 90px!important;
+      font-size:16px!important;
+      line-height:20px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 90px!important;
+      font-size:16px!important;
+      line-height:22px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:40px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 1312px) {
+    .slide-description{
+      font-size:15px;
+    }
+    .slide-font1{
+      margin-top: -380px;
+    }
+    .slide-font2{
+      margin-top: -380px;
+    }
+    .slide-font3{
+      margin-top: -380px;
+    }
+    .slide-font4{
+      margin-top: -380px;
+      position:absolute;
+      width: 290px;
+    }
+  }
+  @media only screen and (max-width: 1249px) {
+    .slide-description{
+      font-size:13px;
+    }
+    .slide-font1{
+      margin-top: -350px;
+    }
+    .slide-font2{
+      margin-top: -350px;
+    }
+    .slide-font3{
+      margin-top: -350px;
+    }
+    .slide-font4{
+      margin-top: -350px;
+      position:absolute;
+      width: 270px;
+    }
+  }
+  @media only screen and (max-width: 1200px) {
+    .roadmap-font1{
+      margin-top: -270px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -270px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -270px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 80px!important;
+      font-size:17px!important;
+    }
+    .roadmap-description4{
+      padding:0 80px!important;
+      line-height:26px!important;
+      font-size:15px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 70px!important;
+      font-size:14px!important;
+      line-height:20px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 80px!important;
+      font-size:14px!important;
+      line-height:22px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:35px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 1159px) {
+    .slide-description{
+      font-size:13px;
+    }
+    .slide-font1{
+      margin-top: -330px;
+    }
+    .slide-font2{
+      margin-top: -330px;
+    }
+    .slide-font3{
+      margin-top: -330px;
+    }
+    .slide-font4{
+      margin-top: -330px;
+      position:absolute;
+      width: 250px;
+    }
+    .slick-arrow{
+      margin-top:-90px;
+    }
+  }
+  @media only screen and (max-width: 1099px) {
+    .slide-description{
+      font-size:11px;
+    }
+    .slide-font1{
+      margin-top: -300px;
+    }
+    .slide-font2{
+      margin-top: -300px;
+    }
+    .slide-font3{
+      margin-top: -300px;
+    }
+    .slide-font4{
+      margin-top: -300px;
+      position:absolute;
+      width: 250px;
+    }
+    .roadmap-font1{
+      margin-top: -240px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -240px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -240px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 70px!important;
+      font-size:15px!important;
+    }
+    .roadmap-description4{
+      padding:0 70px!important;
+      line-height:24px!important;
+      font-size:13px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 70px!important;
+      font-size:12px!important;
+      line-height:17px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 70px!important;
+      font-size:12px!important;
+      line-height:20px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:30px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 991px) {
+    .header-search-part{
+      display:none;
+    }
+    .header-title{
+      float:left;
+      margin-left:10px;
+    }
+    .link-part{
+      display:none;
+    }
+    .mobile-menu{
+      display:block
+    }
+    .top-content{
+      margin-top:50px;
+      padding:0 50px;
+    }
+    .first-image{
+      width:60%;
+      height:90%;
+      margin-top:30px;
+    }
+    .first-btn-content{
+      text-align:center;
+    }
+    .learn-part{
+      padding:0 20px;
+    }
+    .learn-descript{
+      margin-left:20%;
+    }
+    .NFT-display{
+      display:none;
+    }
+    .NFT-image{
+      width:80%;
+      height:auto;
+    }
+    .NFTPart{
+      height:2860px;
+      padding:30px 30px;
+    }
+    .flag-image{
+      width:400px;
+      height:400px;
+      margin-top:20px;
+    }
+    .drop-part1{
+      display:none;
+    }
+    .drop-part2{
+      display:block;
+    }
+    .slide-description{
+      font-size:15px;
+    }
+    .slide-font1{
+      margin-top: -370px;
+    }
+    .slide-font2{
+      margin-top: -370px;
+    }
+    .slide-font3{
+      margin-top: -370px;
+    }
+    .slide-font4{
+      margin-top: -370px;
+      position:absolute;
+      width: 290px;
+    }
+    .roadmap-font1{
+      margin-top: -210px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -210px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -210px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 70px!important;
+      font-size:13px!important;
+    }
+    .roadmap-description4{
+      padding:0 70px!important;
+      line-height:20px!important;
+      font-size:11px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 60px!important;
+      font-size:10px!important;
+      line-height:15px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 70px!important;
+      font-size:10px!important;
+      line-height:18px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:27px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 915px) {
+    .slide-description{
+      font-size:13px;
+    }
+    .slide-font1{
+      margin-top: -340px;
+    }
+    .slide-font2{
+      margin-top: -340px;
+    }
+    .slide-font3{
+      margin-top: -340px;
+    }
+    .slide-font4{
+      margin-top: -340px;
+      position:absolute;
+      width: 270px;
+    }
+  }
+  @media only screen and (max-width: 907px) {
+    .NFTPart{
+      height:2900px; 
+    }
+  }
+  @media only screen and (max-width: 889px) {
+    .NFTPart{
+      height: 2964px;
+    }
+  }
+  @media only screen and (max-width: 831px) {
+    .NFTPart{
+      height: 3000px;
+    }
+    .learn-descript{
+      margin-left:15%;
+    }
+    .slide-description{
+      font-size:11px;
+    }
+    .slide-font1{
+      margin-top: -290px;
+    }
+    .slide-font2{
+      margin-top: -290px;
+    }
+    .slide-font3{
+      margin-top: -290px;
+    }
+    .slide-font4{
+      margin-top: -290px;
+      position:absolute;
+      width: 230px;
+    }
+    .roadmap-font1{
+      margin-top: -170px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -170px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -170px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 50px!important;
+      font-size:11px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description4{
+      padding:0 50px!important;
+      line-height:15px!important;
+      font-size:9px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 50px!important;
+      font-size:8px!important;
+      line-height:13px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 50px!important;
+      font-size:8px!important;
+      line-height:14px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:25px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 805px) {
+    .NFTPart{
+      height:3050px;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    .NFTPart{
+      height:3150px;
+    }
+  }
+  @media only screen and (max-width: 758px) {
+    .NFTPart{
+      height:3140px;
+    }
+    .slide-description{
+      font-size:9px;
+    }
+    .slide-font1{
+      margin-top: -250px;
+    }
+    .slide-font2{
+      margin-top: -250px;
+    }
+    .slide-font3{
+      margin-top: -250px;
+    }
+    .slide-font4{
+      margin-top: -250px;
+      position:absolute;
+      width: 200px;
+    }
+    .slick-arrow{
+      margin-top:-110px;
+    }
+    .roadmap-font1{
+      margin-top: -140px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -140px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -140px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 50px!important;
+      font-size:9px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description4{
+      padding:0 50px!important;
+      line-height:10px!important;
+      font-size:7px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 50px!important;
+      font-size:6px!important;
+      line-height:9px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 50px!important;
+      font-size:6px!important;
+      line-height:10px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:20px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 693px) {
+    .slide-description{
+      font-size:8px;
+      padding:0 20px;
+    }
+    .slide-font1{
+      margin-top: -220px;
+    }
+    .slide-font2{
+      margin-top: -220px;
+    }
+    .slide-font3{
+      margin-top: -220px;
+    }
+    .slide-font4{
+      margin-top: -220px;
+      position:absolute;
+      width: 170px;
+    }
+    .slick-arrow{
+      margin-top:-130px;
+    }
+  }
+  @media only screen and (max-width: 689px) {
+    .NFTPart{
+      height: 3276px;
+    }
+  }
+  @media only screen and (max-width: 642px) {
+    .NFTPart{
+      height: 3276px;
+    }
+    .roadmap-font1{
+      margin-top: -120px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -120px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -120px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 35px!important;
+      font-size:9px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description4{
+      padding:0 35px!important;
+      line-height:10px!important;
+      font-size:7px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 35px!important;
+      font-size:6px!important;
+      line-height:7px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 35px!important;
+      font-size:6px!important;
+      line-height:10px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:15px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 631px) {
+    .learn-descript{
+      margin-left:10%;
+    }
+    .slide-description{
+      font-size:8px;
+      padding:0 20px;
+    }
+    .slide-font1{
+      margin-top: -190px;
+    }
+    .slide-font2{
+      margin-top: -190px;
+    }
+    .slide-font3{
+      margin-top: -190px;
+    }
+    .slide-font4{
+      margin-top: -190px;
+      position:absolute;
+      width: 160px;
+    }
+  }
+  @media only screen and (max-width: 618px) {
+    .NFTPart{
+      height: 3440px;
+    }
+  }
+  @media only screen and (max-width: 599px) {
+    .top-content{
+      margin-top:50px;
+      padding:0 0px;
+    }
+    .first-image{
+      width:80%;
+      height:80%;
+      margin-top:30px;
+    }
+    .title{
+      font-size:35px
+    }
+    .description{
+      font-size:19px;
+    }
+    .first-content-description{
+      padding:0 15px;
+    }
+    .row{
+      margin:0;
+    }
+    .lorem-part{
+      padding:0 5px;
+    }
+    .prize-description{
+      padding:0 20px;
+    }
+    .NFT-image{
+      width:80%;
+      height:auto;
+    }
+    .NFTPart{
+      height:2900px;
+    }
+    .map-title{
+      font-size:30px;
+    }
+    .slide-description{
+      font-size:7px;
+    }
+    .slide-font1{
+      margin-top: -170px;
+    }
+    .slide-font2{
+      margin-top: -170px;
+    }
+    .slide-font3{
+      margin-top: -170px;
+    }
+    .slide-font4{
+      margin-top: -170px;
+      position:absolute;
+      width: 130px;
+    }
+    .slick-arrow{
+      margin-top:-160px;
+    }
+    .roadmap-font1{
+      margin-top: -210px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -210px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -210px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 70px!important;
+      font-size:13px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description4{
+      padding:0 70px!important;
+      line-height:15px!important;
+      font-size:11px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 70px!important;
+      font-size:10px!important;
+      line-height:15px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 70px!important;
+      font-size:10px!important;
+      line-height:14px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:25px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 551px) {
+    .slide-description{
+      font-size:6px;
+    }
+    .slide-font1{
+      margin-top: -150px;
+    }
+    .slide-font2{
+      margin-top: -150px;
+    }
+    .slide-font3{
+      margin-top: -150px;
+    }
+    .slide-font4{
+      margin-top: -150px;
+      position:absolute;
+      width: 120px;
+    }
+    .text-error{
+      font-size: 15px;    
+    }
+  }
+  @media only screen and (max-width: 534px) {
+    .NFTPart{
+      height: 2920px;
+    }
+  }
+  @media only screen and (max-width: 518px) {
+    .roadmap-font1{
+      margin-top: -170px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -170px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -170px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 60px!important;
+      font-size:11px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description4{
+      padding:0 60px!important;
+      line-height:12px!important;
+      font-size:9px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 50px!important;
+      font-size:8px!important;
+      line-height:12px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 60px!important;
+      font-size:8px!important;
+      line-height:11px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:20px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 510px) {
+    .NFTPart{
+      height:2970px;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    .slide-description{
+      font-size:13px;
+    }
+    .slide-font1{
+      margin-top: -290px;
+    }
+    .slide-font2{
+      margin-top: -290px;
+    }
+    .slide-font3{
+      margin-top: -290px;
+    }
+    .slide-font4{
+      margin-top: -290px;
+      position:absolute;
+      width: 220px;
+    }
+    .slick-arrow{
+      margin-top:-100px;
+    }
+  }
+  @media only screen and (max-width: 431px) {
+    .button-explore{
+      width: 120px;
+      height: 50px;
+    }
+    .button-join{
+      width: 120px;
+      height: 50px;
+    }
+    .learn-descript{
+      margin-left:5%;
+    }
+    .flag-image{
+      width:260px;
+      height:260px;
+    }
+    .NFTPart{
+      height:3060px;
+    }
+    .slide-description{
+      font-size:10px;
+    }
+    .slide-font1{
+      margin-top: -240px;
+    }
+    .slide-font2{
+      margin-top: -240px;
+    }
+    .slide-font3{
+      margin-top: -240px;
+    }
+    .slide-font4{
+      margin-top: -240px;
+      position:absolute;
+      width: 170px;
+    }
+    .slick-arrow{
+      margin-top:-140px;
+    }
+    .roadmap-font1{
+      margin-top: -140px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -140px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -140px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 40px!important;
+      font-size:11px!important;
+      margin-top:-10px!important;
+      line-height:13px!important;
+    }
+    .roadmap-description4{
+      padding:0 40px!important;
+      line-height:12px!important;
+      font-size:9px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 35px!important;
+      font-size:8px!important;
+      line-height:9px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 40px!important;
+      font-size:8px!important;
+      line-height:11px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:20px;
+      margin-bottom:10px;
+    }
+    .modal-con{
+      width:300px;
+    }
+    .input-field{
+      width:90%;
+      height:170px;
+      padding:15px 10px;
+      font-size:15px;
+      font-family: Poppins;
+    }
+  }
+  @media only screen and (max-width: 393px) {
+    .NFTPart{
+      height: 3090px;
+    }
+  }
+  @media only screen and (max-width: 395px) {
+    .slide-description{
+      font-size:9px;
+    }
+    .slide-font1{
+      margin-top: -210px;
+    }
+    .slide-font2{
+      margin-top: -210px;
+    }
+    .slide-font3{
+      margin-top: -210px;
+    }
+    .slide-font4{
+      margin-top: -210px;
+      position:absolute;
+      width: 160px;
+    }
+  }
+  @media only screen and (max-width: 375px) {
+    .slide-description{
+      font-size:8px;
+    }
+    .slide-font1{
+      margin-top: -190px;
+    }
+    .slide-font2{
+      margin-top: -190px;
+    }
+    .slide-font3{
+      margin-top: -190px;
+    }
+    .slide-font4{
+      margin-top: -190px;
+      position:absolute;
+      width: 150px;
+    }
+    .slick-arrow{
+      margin-top:-160px;
+    }
+    .NFTPart{
+      height: 3130px;
+    }
+    .roadmap-font1{
+      margin-top: -110px;
+      text-align:center;
+    }
+    .roadmap-font2{
+      margin-top: -110px;
+      text-align:center;
+    }
+    .roadmap-font3{
+      margin-top: -110px;
+      text-align:center;
+    }
+    .roadmap-description{
+      padding:0 30px!important;
+      font-size:9px!important;
+      margin-top:-10px!important;
+      line-height:13px!important;
+    }
+    .roadmap-description4{
+      padding:0 30px!important;
+      line-height:12px!important;
+      font-size:7px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description5{
+      padding:0 25px!important;
+      font-size:7px!important;
+      line-height:7px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-description7{
+      padding:0 30px!important;
+      font-size:7px!important;
+      line-height:8px!important;
+      margin-top:-10px!important;
+    }
+    .roadmap-title{
+      font-size:15px;
+      margin-bottom:10px;
+    }
+  }
+  @media only screen and (max-width: 360px) {
+    .slide-description{
+      font-size:7px;
+    }
+    .slide-font1{
+      margin-top: -170px;
+    }
+    .slide-font2{
+      margin-top: -170px;
+    }
+    .slide-font3{
+      margin-top: -170px;
+    }
+    .slide-font4{
+      margin-top: -170px;
+      position:absolute;
+      width: 140px;
+    }
+    .NFTPart{
+      height: 3170px;
+    }
+  }
+  @media only screen and (max-width: 321px) {
+    .NFTPart{
+      height:3230px;
+    }
+  }
+
+  .footer-part{
+    display: block;
+    padding:0;
+    background: linear-gradient(#FAD25B,#EC8E3B);    
+  }
+  .main-part{
+    padding: 90px 300px 20px 300px;
+}
+.title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 120.5%;
+    color:white;
+    text-align:center;
+}
+.description{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+.email-input{
+    height: 70px;
+    left: 327px;
+    top: 3983px;
+    outline:none;
+    border:none;
+    background: #FFFFFF;
+    border-radius: 15px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 120.5%;
+    color: #979DAC;
+    padding:0 40px;
+}
+.error-msg{
+  color: red;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 10px; 
+  font-weight: 600;
+}
+.signup-button{
+    width: 25%;
+    height: 70px;
+    left: 879px;
+    top: 3983px;
+    background: #FFFFFF;
+    border-radius: 15px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 120.5%;
+    color: #ED8E3B;
+    border:none;
+    float:right;
+    margin-right:20px;
+}
+.signup-button:hover{
+    background:#ED8E3B;
+    color:#FFFFFF;
+}
+.link-image{
+    width:94px;
+    height:100px;
+    margin:auto;
+}
+.link-part1{
+    padding:20px 70px;
+}
+.border-left{
+    border-left:4px solid white !important;
+    padding:0 20px;
+    height:30px;
+}
+.border-left-first{
+    padding:0 20px;
+}
+.footer-link{
+    margin-left:30px;
+    width:873px;
+    margin:auto;
+    margin-top:70px;
+    padding-bottom:30px;
+}
+.link-word{
+    font-size:28px!important;
+}    
+.border-left-third{
+    border-left:4px solid white !important;
+    padding-left:10px;
+    height:30px;
+}
+.contact-title{
+    margin-left:20px;
+}
+.first-link-part{
+    width:155px;
+    margin:auto
+}
+.second-link-part{
+    width:284px;
+    margin:auto;
+}
+.calendar-img{
+    width:150px;
+    height:150px;
+}
+.calendar-part{
+    display:-webkit-box;
+    width: 280px;
+    margin: auto;
+}
+.calendar-prefix{
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    font-size:28px;
+}
+@media only screen and (max-width: 1617px) {
+    .email-input{
+        height:60px;
+        font-size:20px;
+    }
+    .signup-button{
+        height:60px;
+    }
+    .link-part{
+        padding:20px 70px;
+    }
+}
+@media only screen and (max-width: 1726px) {
+    .main-part{
+        padding: 90px 200px 20px 200px;
+    }
+}
+@media only screen and (max-width: 1530px) {
+    .main-part{
+        padding: 90px 100px 20px 100px;
+    }
+}
+@media only screen and (max-width: 1320px) {
+    .main-part{
+        padding: 90px 0px 20px 30px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .link-part{
+        display: none!important;
+    }
+    .email-input{
+        font-size:15px;
+        height:50px;
+    }
+    .signup-button{
+        width: 100px;
+        font-size:15px;
+        height:50px;
+    }
+    .sign-part{
+        width:500px;
+    }
+    .title{
+        font-size:33px;
+    }
+    .footer-link{
+        width:70%;
+    }
+    .first-link-part{
+        width:347px;
+        margin:auto
+    }
+    .second-link-part{
+        width:268px;
+        margin:auto;
+    }
+    .border-left-third{
+        border:none!important;
+    }
+    .contact-title{
+        margin-left:0px;
+    }
+    .link-part1{
+        margin-top:50px;
+    }
+}
+@media only screen and (max-width: 740px) {
+    .first-link-part{
+        width:270px;
+        margin:auto
+    }
+    .second-link-part{
+        width:214px;
+        margin:auto;
+    }
+    .link-word{
+        font-size:20px!important;
+    }
+    .border-left{
+        height:22px;
+    }
+}
+@media only screen and (max-width: 550px) {
+    .email-input{
+        width: 250px;
+    }
+    .signup-button{
+        width: 80px;
+    }
+    .sign-part{
+        width:400px;
+    }
+    .link-image{
+        width:74px;
+        height:77px;
+        margin:auto;
+    }
+    .link-word{
+        font-size:20px!important;
+    }
+    .footer-link{
+        width:95%;
+    }
+    .border-left{
+        border-left:4px solid white !important;
+        padding:0 10px;
+    }
+    .border-left-first{
+        padding:0 10px;
+    }
+    .first-link-part{
+        width:250px;
+        margin:auto
+    }
+    .second-link-part{
+        width:190px;
+        margin:auto;
+    }
+    .border-left-third{
+        border:none;
+    }
+    .error-msg{
+      font-size: 15px;
+      margin-left: 10px;         
+    }
+}
+@media only screen and (max-width: 420px) {
+    .email-input{
+        width: 170px;
+        padding:0 10px;
+    }
+    .signup-button{
+        width: 80px;
+    }
+    .sign-part{
+        width:280px;
+        margin:auto;
+    }
+    .main-part{
+        padding: 90px 15px 20px 15px;
+    }
+    .link-part1{
+        padding:50px 10px;
+    }
+    .title{
+        font-size:30px;
+    }
+    .link-image{
+        width:74px;
+        height:77px;
+        margin:auto;
+    }
+    .link-part1{
+        margin-top:20px;
+    }
+    .first-link-part{
+        width:198px;
+        margin:auto
+    }
+    .second-link-part{
+        width:205px;
+        margin:auto;
+    }
+}
+@media only screen and (max-width: 361px) {
+    .link-word{
+        font-size:16px!important;
+    }
+    .border-left{
+        height:20px;
+    }
+    .first-link-part{
+        width:201px;
+        margin:auto
+    }
+    .second-link-part{
+        width:157px;
+        margin:auto;
+    }
+}
